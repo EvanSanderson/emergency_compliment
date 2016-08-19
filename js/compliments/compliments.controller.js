@@ -2,7 +2,7 @@
 
 (function(){
 
-  var app = angular.module("compliments");
+  var app = angular.module("emergencyComp");
   app.controller("complimentsController", ComplimentsController);
 
   function ComplimentsController(){

@@ -1,6 +1,6 @@
 (function(){
   angular
-    .module("compliments", [])
+    .module("emergencyComp", [])
     .controller("ComplimentsController",
 
       ComplimentsControllerFunction
